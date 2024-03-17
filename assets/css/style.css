@@ -3069,6 +3069,7 @@ h2.project_heading:after {
 .education_secondbox .education_left {
     margin: 0px;
     max-width: 100%;
+	float:none;
 }
 .education_secondbox .edu_mainyear h1:after{
     content: '';
